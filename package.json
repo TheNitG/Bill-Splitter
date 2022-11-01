@@ -1,7 +1,7 @@
 {
   "name": "split-bill",
   "version": "0.1.0",
-  "homepage": "https://thenitg.github.io/bill-splitter",
+  "homepage": "https://thenitg.github.io/Bill-Splitter/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
